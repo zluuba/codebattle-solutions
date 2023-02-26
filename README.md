@@ -4,9 +4,18 @@
 <br>
 
 ### Easy
-+ [Two trains meet](https://github.com/zluuba/codebattle/blob/main/easy-level/two_trains_meet.py)
-+ [Rna transcription](https://github.com/zluuba/codebattle/blob/main/easy-level/rna_transcription.py)
-+ [Split names](https://github.com/zluuba/codebattle/blob/main/easy-level/split_names.py)
++ [Two Trains Meet](https://github.com/zluuba/codebattle/blob/main/easy-level/two_trains_meet.py)
++ [Rna Transcription](https://github.com/zluuba/codebattle/blob/main/easy-level/rna_transcription.py)
++ [Split Names](https://github.com/zluuba/codebattle/blob/main/easy-level/split_names.py)
++ [Largest Number](https://github.com/zluuba/codebattle/blob/main/easy-level/largest_number.py)
++ [Reverse Everywhere](https://github.com/zluuba/codebattle/blob/main/easy-level/reverse_everywhere.py)
++ [Twenty One](https://github.com/zluuba/codebattle/blob/main/easy-level/twenty_one.py)
++ [Minmax Find](https://github.com/zluuba/codebattle/blob/main/easy-level/minmax_find.py)
++ [Vowels To Numbers](https://github.com/zluuba/codebattle/blob/main/easy-level/vowels_to_numbers.py)
++ [HTTP Classifier](https://github.com/zluuba/codebattle/blob/main/easy-level/http_classifier.py)
++ [Celsius To Kelvin](https://github.com/zluuba/codebattle/blob/main/easy-level/celsius_to_kelvin.py)
++ [Make Me](https://github.com/zluuba/codebattle/blob/main/easy-level/make_me.py)
++ [Tournament Rounds](https://github.com/zluuba/codebattle/blob/main/easy-level/tournament_rounds.py)
 
 
 ### Medium
