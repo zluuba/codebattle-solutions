@@ -4,9 +4,9 @@
 <br>
 
 ### Easy
-+ [Two trains meet](https://github.com/zluuba/codebattle/blob/main/easy/two_trains_meet.py)
-+ [Rna transcription](https://github.com/zluuba/codebattle/blob/main/easy/rna_transcription.py)
-+ [Split names](https://github.com/zluuba/codebattle/blob/main/easy/split_names.py)
++ [Two trains meet](https://github.com/zluuba/codebattle/blob/main/easy-level/two_trains_meet.py)
++ [Rna transcription](https://github.com/zluuba/codebattle/blob/main/easy-level/rna_transcription.py)
++ [Split names](https://github.com/zluuba/codebattle/blob/main/easy-level/split_names.py)
 
 
 ### Medium
