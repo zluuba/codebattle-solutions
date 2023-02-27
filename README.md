@@ -16,6 +16,17 @@
 + [Celsius To Kelvin](https://github.com/zluuba/codebattle/blob/main/easy-level/celsius_to_kelvin.py)
 + [Make Me](https://github.com/zluuba/codebattle/blob/main/easy-level/make_me.py)
 + [Tournament Rounds](https://github.com/zluuba/codebattle/blob/main/easy-level/tournament_rounds.py)
++ [Char Replacement](https://github.com/zluuba/codebattle/blob/main/easy-level/char_replacement.py)
++ [Find Nemo](https://github.com/zluuba/codebattle/blob/main/easy-level/find_nemo.py)
++ [Luke Relations](https://github.com/zluuba/codebattle/blob/main/easy-level/luke_relations.py)
++ [Char Remove](https://github.com/zluuba/codebattle/blob/main/easy-level/char_remove.py)
++ [Dir Count](https://github.com/zluuba/codebattle/blob/main/easy-level/dir_count.py)
++ [Integer Count](https://github.com/zluuba/codebattle/blob/main/easy-level/integer_count.py)
++ [Sum Of Array Plus One](https://github.com/zluuba/codebattle/blob/main/easy-level/sum_of_array_plus_one.py)
++ [Get File](https://github.com/zluuba/codebattle/blob/main/easy-level/get_file.py)
++ [Reverse Even](https://github.com/zluuba/codebattle/blob/main/easy-level/reverse_even.py)
++ [Shorten String](https://github.com/zluuba/codebattle/blob/main/easy-level/shorten_string.py)
++ [Colour Invert](https://github.com/zluuba/codebattle/blob/main/easy-level/colour_invert.py)
 
 
 ### Medium
