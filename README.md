@@ -27,6 +27,10 @@
 + [Reverse Even](https://github.com/zluuba/codebattle/blob/main/easy-level/reverse_even.py)
 + [Shorten String](https://github.com/zluuba/codebattle/blob/main/easy-level/shorten_string.py)
 + [Colour Invert](https://github.com/zluuba/codebattle/blob/main/easy-level/colour_invert.py)
++ [Rect Area](https://github.com/zluuba/codebattle/blob/main/easy-level/rect_area.py)
++ [Farm Problem](https://github.com/zluuba/codebattle/blob/main/easy-level/farm_problem.py)
++ [Students Name Slugify](https://github.com/zluuba/codebattle/blob/main/easy-level/students_name_slugify.py)
++ [Passengers And Driver](https://github.com/zluuba/codebattle/blob/main/easy-level/passengers_and_driver.py)
 
 
 ### Medium
