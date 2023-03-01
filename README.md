@@ -31,9 +31,33 @@
 + [Farm Problem](https://github.com/zluuba/codebattle/blob/main/easy-level/farm_problem.py)
 + [Students Name Slugify](https://github.com/zluuba/codebattle/blob/main/easy-level/students_name_slugify.py)
 + [Passengers And Driver](https://github.com/zluuba/codebattle/blob/main/easy-level/passengers_and_driver.py)
++ [Same Bread](https://github.com/zluuba/codebattle/blob/main/easy-level/same_bread.py)
++ [Computers Count](https://github.com/zluuba/codebattle/blob/main/easy-level/computers_count.py)
++ [Sort By Length](https://github.com/zluuba/codebattle/blob/main/easy-level/sort_by_length.py)
++ [Fizzbuzz](https://github.com/zluuba/codebattle/blob/main/easy-level/fizzbuzz.py)
++ [Power Calculator](https://github.com/zluuba/codebattle/blob/main/easy-level/power_calculator.py)
++ [Replace And Uppercase](https://github.com/zluuba/codebattle/blob/main/easy-level/replace_and_uppercase.py)
++ [Invert Case](https://github.com/zluuba/codebattle/blob/main/easy-level/invert_case.py)
++ [Stickers Count](https://github.com/zluuba/codebattle/blob/main/easy-level/stickers_count.py)
++ [Polygon Angles Sum](https://github.com/zluuba/codebattle/blob/main/easy-level/polygon_angles_sum.py)
++ [Drop Every N Element](https://github.com/zluuba/codebattle/blob/main/easy-level/drop_every_n_element.py)
++ [Tomato](https://github.com/zluuba/codebattle/blob/main/easy-level/tomato.py)
++ [Maximum Triangle Edge](https://github.com/zluuba/codebattle/blob/main/easy-level/maximum_triangle_edge.py)
++ [Drop Odd](https://github.com/zluuba/codebattle/blob/main/easy-level/drop_odd.py)
++ [Leap Year](https://github.com/zluuba/codebattle/blob/main/easy-level/leap_year.py)
++ [Years Since Millennium](https://github.com/zluuba/codebattle/blob/main/easy-level/years_since_millennium.py)
++ [Arithmetic Progression](https://github.com/zluuba/codebattle/blob/main/easy-level/arithmetic_progression.py)
++ [Biggest Square Sum](https://github.com/zluuba/codebattle/blob/main/easy-level/biggest_square_sum.py)
++ [Distance Across River](https://github.com/zluuba/codebattle/blob/main/easy-level/distance_across_river.py)
++ [Shapes With N Sides](https://github.com/zluuba/codebattle/blob/main/easy-level/shapes_with_n_sides.py)
++ [Plural Or Singular](https://github.com/zluuba/codebattle/blob/main/easy-level/plural_or_singular.py)
++ [Biggest Second Number](https://github.com/zluuba/codebattle/blob/main/easy-level/biggest_second_number.py)
++ [Number Range](https://github.com/zluuba/codebattle/blob/main/easy-level/number_range.py)
++ [Title String](https://github.com/zluuba/codebattle/blob/main/easy-level/title_string.py)
 
 
 ### Medium
++ [Power Of Two](https://github.com/zluuba/codebattle/blob/main/medium-level/power_of_two.py)
 
 
 ### Hard
