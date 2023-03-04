@@ -62,7 +62,7 @@
 + [Number Of Squares In Grid](https://github.com/zluuba/codebattle/blob/main/medium-level/number_of_squares_in_grid.py)
 + [Parity Bit](https://github.com/zluuba/codebattle/blob/main/medium-level/parity_bit.py)
 + [Pair With Maximum Product](https://github.com/zluuba/codebattle/blob/main/medium-level/pair_with_maximum_product.py)
-
++ [Arrange Numbers To Form Biggest Number](https://github.com/zluuba/codebattle/blob/main/medium-level/arrange_numbers_to_form_biggest_number.py)
 
 ### Hard
 
