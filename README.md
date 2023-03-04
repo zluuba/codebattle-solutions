@@ -58,6 +58,10 @@
 
 ### Medium
 + [Power Of Two](https://github.com/zluuba/codebattle/blob/main/medium-level/power_of_two.py)
++ [Least Common Multiple](https://github.com/zluuba/codebattle/blob/main/medium-level/least_common_multiple.py)
++ [Number Of Squares In Grid](https://github.com/zluuba/codebattle/blob/main/medium-level/number_of_squares_in_grid.py)
++ [Parity Bit](https://github.com/zluuba/codebattle/blob/main/medium-level/parity_bit.py)
++ [Pair With Maximum Product](https://github.com/zluuba/codebattle/blob/main/medium-level/pair_with_maximum_product.py)
 
 
 ### Hard
