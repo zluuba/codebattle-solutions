@@ -11,8 +11,6 @@
 def solution(num: int) -> bool:
     n = 1
     while n < num:
-        n = n * 2
+        n *= 2
 
-    if n == num:
-        return True
-    return False
+    return n == num
