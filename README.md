@@ -63,6 +63,13 @@
 + [Parity Bit](https://github.com/zluuba/codebattle/blob/main/medium-level/parity_bit.py)
 + [Pair With Maximum Product](https://github.com/zluuba/codebattle/blob/main/medium-level/pair_with_maximum_product.py)
 + [Arrange Numbers To Form Biggest Number](https://github.com/zluuba/codebattle/blob/main/medium-level/arrange_numbers_to_form_biggest_number.py)
++ [Largest Pair Sum In Array](https://github.com/zluuba/codebattle/blob/main/medium-level/largest_pair_sum_in_array.py)
++ [Concat Chess](https://github.com/zluuba/codebattle/blob/main/medium-level/concat_chess.py)
++ [Fancy Number](https://github.com/zluuba/codebattle/blob/main/medium-level/fancy_number.py)
++ [Chess Row Color](https://github.com/zluuba/codebattle/blob/main/medium-level/chess_row_color.py)
++ [Pizza Volume](https://github.com/zluuba/codebattle/blob/main/medium-level/pizza_volume.py)
++ [Kinetic Energy](https://github.com/zluuba/codebattle/blob/main/medium-level/kinetic_energy.py)
++ [Sort Elements By Frequency](https://github.com/zluuba/codebattle/blob/main/medium-level/sort_elements_by_frequency.py)
 
 ### Hard
 
