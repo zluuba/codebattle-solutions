@@ -70,6 +70,13 @@
 + [Pizza Volume](https://github.com/zluuba/codebattle/blob/main/medium-level/pizza_volume.py)
 + [Kinetic Energy](https://github.com/zluuba/codebattle/blob/main/medium-level/kinetic_energy.py)
 + [Sort Elements By Frequency](https://github.com/zluuba/codebattle/blob/main/medium-level/sort_elements_by_frequency.py)
++ [Bitmask](https://github.com/zluuba/codebattle/blob/main/medium-level/bitmask.py)
++ [Convert And Reverse](https://github.com/zluuba/codebattle/blob/main/medium-level/convert_and_reverse.py)
++ [Pythagorean Triple](https://github.com/zluuba/codebattle/blob/main/medium-level/pythagorean_triple.py)
++ [Nested Sum](https://github.com/zluuba/codebattle/blob/main/medium-level/nested_sum.py)
++ [NRZI Encoding](https://github.com/zluuba/codebattle/blob/main/medium-level/nrzi_encoding.py)
++ [Base N](https://github.com/zluuba/codebattle/blob/main/medium-level/base_n.py)
++ [Simple Calculator](https://github.com/zluuba/codebattle/blob/main/medium-level/simple_calculator.py)
 
 ### Hard
 
