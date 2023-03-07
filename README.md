@@ -77,6 +77,11 @@
 + [NRZI Encoding](https://github.com/zluuba/codebattle/blob/main/medium-level/nrzi_encoding.py)
 + [Base N](https://github.com/zluuba/codebattle/blob/main/medium-level/base_n.py)
 + [Simple Calculator](https://github.com/zluuba/codebattle/blob/main/medium-level/simple_calculator.py)
++ [Disjoint Sets](https://github.com/zluuba/codebattle/blob/main/medium-level/disjoint_sets.py)
++ [Garland Word](https://github.com/zluuba/codebattle/blob/main/medium-level/garland_word.py)
++ [Excel Sheet Column Title](https://github.com/zluuba/codebattle/blob/main/medium-level/excel_sheet_column_title.py)
++ [Imposter Search](https://github.com/zluuba/codebattle/blob/main/medium-level/imposter_search.py)
++ [Domino](https://github.com/zluuba/codebattle/blob/main/medium-level/domino.py)
 
 ### Hard
 
