@@ -82,6 +82,8 @@
 + [Excel Sheet Column Title](https://github.com/zluuba/codebattle/blob/main/medium-level/excel_sheet_column_title.py)
 + [Imposter Search](https://github.com/zluuba/codebattle/blob/main/medium-level/imposter_search.py)
 + [Domino](https://github.com/zluuba/codebattle/blob/main/medium-level/domino.py)
++ [Power Digits Sum](https://github.com/zluuba/codebattle/blob/main/medium-level/power_digits_sum.py)
++ [Partiphify](https://github.com/zluuba/codebattle/blob/main/medium-level/partiphify.py)
 
 ### Hard
 
