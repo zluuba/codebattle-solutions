@@ -84,6 +84,13 @@
 + [Domino](https://github.com/zluuba/codebattle/blob/main/medium-level/domino.py)
 + [Power Digits Sum](https://github.com/zluuba/codebattle/blob/main/medium-level/power_digits_sum.py)
 + [Partiphify](https://github.com/zluuba/codebattle/blob/main/medium-level/partiphify.py)
++ [DNS Resolver](https://github.com/zluuba/codebattle/blob/main/medium-level/dns_resolver.py)
++ [Operation Suggestion](https://github.com/zluuba/codebattle/blob/main/medium-level/operation_suggestion.py)
++ [Secret Society](https://github.com/zluuba/codebattle/blob/main/medium-level/secret_society.py)
++ [Excel Sheet Column Number](https://github.com/zluuba/codebattle/blob/main/medium-level/excel_sheet_column_number.py)
++ [Reverse And Drop](https://github.com/zluuba/codebattle/blob/main/medium-level/reverse_and_drop.py)
++ [More Than Medium](https://github.com/zluuba/codebattle/blob/main/medium-level/more_than_medium.py)
++ [Join Url Params](https://github.com/zluuba/codebattle/blob/main/medium-level/join_url_params.py)
 
 ### Hard
 
