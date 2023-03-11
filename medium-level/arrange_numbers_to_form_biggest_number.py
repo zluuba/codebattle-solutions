@@ -15,15 +15,11 @@ from typing import List
 
 def solution(numbers: List[int]) -> str:
     length = len(numbers)
-
-    if length == 1:
-        return str(numbers[0])
-
-    numbers = [str(num) for num in numbers]
+    str_nums = list(map(str, numbers))
 
     for i in range(length):
         for j in range(i + 1, length):
-            if numbers[i] + numbers[j] < numbers[j] + numbers[i]:
-                numbers[i], numbers[j] = numbers[j], numbers[i]
+            if str_nums[i] + str_nums[j] < str_nums[j] + str_nums[i]:
+                str_nums[i], str_nums[j] = str_nums[j], str_nums[i]
 
-    return ''.join(numbers)
+    return ''.join(str_nums)
