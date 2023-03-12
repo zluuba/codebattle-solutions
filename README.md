@@ -91,6 +91,10 @@
 + [Reverse And Drop](https://github.com/zluuba/codebattle/blob/main/medium-level/reverse_and_drop.py)
 + [More Than Medium](https://github.com/zluuba/codebattle/blob/main/medium-level/more_than_medium.py)
 + [Join Url Params](https://github.com/zluuba/codebattle/blob/main/medium-level/join_url_params.py)
++ [Check Parentheses](https://github.com/zluuba/codebattle/blob/main/medium-level/check_parentheses.py)
++ [Between Text](https://github.com/zluuba/codebattle/blob/main/medium-level/between_text.py)
++ [Atm Pin Code](https://github.com/zluuba/codebattle/blob/main/medium-level/atm_pin_code.py)
++ [Build Hash With Default](https://github.com/zluuba/codebattle/blob/main/medium-level/build_hash_with_default.py)
 
 ### Hard
 
