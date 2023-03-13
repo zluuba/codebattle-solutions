@@ -95,6 +95,8 @@
 + [Between Text](https://github.com/zluuba/codebattle/blob/main/medium-level/between_text.py)
 + [Atm Pin Code](https://github.com/zluuba/codebattle/blob/main/medium-level/atm_pin_code.py)
 + [Build Hash With Default](https://github.com/zluuba/codebattle/blob/main/medium-level/build_hash_with_default.py)
++ [The Big Divide](https://github.com/zluuba/codebattle/blob/main/medium-level/the_big_divide.py)
++ [Next Greater Element](https://github.com/zluuba/codebattle/blob/main/medium-level/next_greater_element.py) - 40
 
 ### Hard
 
