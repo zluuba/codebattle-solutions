@@ -96,7 +96,12 @@
 + [Atm Pin Code](https://github.com/zluuba/codebattle/blob/main/medium-level/atm_pin_code.py)
 + [Build Hash With Default](https://github.com/zluuba/codebattle/blob/main/medium-level/build_hash_with_default.py)
 + [The Big Divide](https://github.com/zluuba/codebattle/blob/main/medium-level/the_big_divide.py)
-+ [Next Greater Element](https://github.com/zluuba/codebattle/blob/main/medium-level/next_greater_element.py) - 40
++ [Next Greater Element](https://github.com/zluuba/codebattle/blob/main/medium-level/next_greater_element.py)
++ [Triangular Number](https://github.com/zluuba/codebattle/blob/main/medium-level/triangular_number.py)
++ [Moving Sum](https://github.com/zluuba/codebattle/blob/main/medium-level/moving_sum.py)
++ [Factorial Trailing Zeroes](https://github.com/zluuba/codebattle/blob/main/medium-level/moving_sum.py)
++ [Create Picture](https://github.com/zluuba/codebattle/blob/main/medium-level/create_picture.py)
++ [Leap Year Count](https://github.com/zluuba/codebattle/blob/main/medium-level/leap_year_count.py)
 
 ### Hard
 
