@@ -1,7 +1,7 @@
 ## Codebattle solutions
 [Easy](https://github.com/zluuba/codebattle#easy) | [Medium](https://github.com/zluuba/codebattle#medium) | [Hard](https://github.com/zluuba/codebattle#hard) | [Impossible](https://github.com/zluuba/codebattle#impossible)
 
-<br>
+<br/>
 
 ### Easy
 + [Two Trains Meet](https://github.com/zluuba/codebattle/blob/main/easy-level/two_trains_meet.py)
@@ -102,6 +102,11 @@
 + [Factorial Trailing Zeroes](https://github.com/zluuba/codebattle/blob/main/medium-level/moving_sum.py)
 + [Create Picture](https://github.com/zluuba/codebattle/blob/main/medium-level/create_picture.py)
 + [Leap Year Count](https://github.com/zluuba/codebattle/blob/main/medium-level/leap_year_count.py)
++ [Clock Angle](https://github.com/zluuba/codebattle/blob/main/medium-level/clock_angle.py)
++ [Numbers With Odd Occurrences](https://github.com/zluuba/codebattle/blob/main/medium-level/numbers_with_odd_occurrences.py)
++ [Key For Min Value](https://github.com/zluuba/codebattle/blob/main/medium-level/key_for_min_value.py)
++ [Single Number](https://github.com/zluuba/codebattle/blob/main/medium-level/single_number.py)
++ [Bit Cycle Shift](https://github.com/zluuba/codebattle/blob/main/medium-level/bit_cycle_shift.py)
 
 ### Hard
 
@@ -109,6 +114,6 @@
 ### Impossible
 
 
-<br>
+<br/>
 
 ##### Python3 | by [zluuba](https://codebattle.hexlet.io/users/9312)
