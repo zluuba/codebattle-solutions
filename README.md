@@ -109,6 +109,9 @@
 + [Bit Cycle Shift](https://github.com/zluuba/codebattle/blob/main/medium-level/bit_cycle_shift.py)
 
 ### Hard
++ [Count Pair With Difference Equal To K](https://github.com/zluuba/codebattle/blob/main/hard-level/count_pair_with_difference_equal_to_k.py)
++ [Sort By Binary](https://github.com/zluuba/codebattle/blob/main/hard-level/sort_by_binary.py)
++ [Happy Numbers](https://github.com/zluuba/codebattle/blob/main/hard-level/happy_numbers.py)
 
 
 ### Impossible
