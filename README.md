@@ -1,9 +1,9 @@
 ## Codebattle solutions
-[Easy](https://github.com/zluuba/codebattle#easy) | [Medium](https://github.com/zluuba/codebattle#medium) | [Hard](https://github.com/zluuba/codebattle#hard) | [Impossible](https://github.com/zluuba/codebattle#impossible)
+[Simple](https://github.com/zluuba/codebattle#simple) | [Easy](https://github.com/zluuba/codebattle#easy) | [Medium](https://github.com/zluuba/codebattle#medium) | [Hard](https://github.com/zluuba/codebattle#hard)
 
 <br/>
 
-### Easy
+### Simple
 + [Two Trains Meet](https://github.com/zluuba/codebattle/blob/main/easy-level/two_trains_meet.py)
 + [Rna Transcription](https://github.com/zluuba/codebattle/blob/main/easy-level/rna_transcription.py)
 + [Split Names](https://github.com/zluuba/codebattle/blob/main/easy-level/split_names.py)
@@ -56,7 +56,7 @@
 + [Title String](https://github.com/zluuba/codebattle/blob/main/easy-level/title_string.py)
 
 
-### Medium
+### Easy
 + [Power Of Two](https://github.com/zluuba/codebattle/blob/main/medium-level/power_of_two.py)
 + [Least Common Multiple](https://github.com/zluuba/codebattle/blob/main/medium-level/least_common_multiple.py)
 + [Number Of Squares In Grid](https://github.com/zluuba/codebattle/blob/main/medium-level/number_of_squares_in_grid.py)
@@ -108,13 +108,13 @@
 + [Single Number](https://github.com/zluuba/codebattle/blob/main/medium-level/single_number.py)
 + [Bit Cycle Shift](https://github.com/zluuba/codebattle/blob/main/medium-level/bit_cycle_shift.py)
 
-### Hard
+### Medium
 + [Count Pair With Difference Equal To K](https://github.com/zluuba/codebattle/blob/main/hard-level/count_pair_with_difference_equal_to_k.py)
 + [Sort By Binary](https://github.com/zluuba/codebattle/blob/main/hard-level/sort_by_binary.py)
 + [Happy Numbers](https://github.com/zluuba/codebattle/blob/main/hard-level/happy_numbers.py)
 
 
-### Impossible
+### Hard
 
 
 <br/>
