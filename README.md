@@ -112,6 +112,9 @@
 + [Count Pair With Difference Equal To K](https://github.com/zluuba/codebattle/blob/main/medium-level/count_pair_with_difference_equal_to_k.py)
 + [Sort By Binary](https://github.com/zluuba/codebattle/blob/main/medium-level/sort_by_binary.py)
 + [Happy Numbers](https://github.com/zluuba/codebattle/blob/main/medium-level/happy_numbers.py)
++ [Perfect Numbers](https://github.com/zluuba/codebattle/blob/main/medium-level/perfect_numbers.py)
++ [Check Phone Number](https://github.com/zluuba/codebattle/blob/main/medium-level/check_phone_number.py)
++ [Ruth Aaron Pairs](https://github.com/zluuba/codebattle/blob/main/medium-level/ruth_aaron_pairs.py)
 
 
 ### Hard
