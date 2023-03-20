@@ -115,6 +115,9 @@
 + [Perfect Numbers](https://github.com/zluuba/codebattle/blob/main/medium-level/perfect_numbers.py)
 + [Check Phone Number](https://github.com/zluuba/codebattle/blob/main/medium-level/check_phone_number.py)
 + [Ruth Aaron Pairs](https://github.com/zluuba/codebattle/blob/main/medium-level/ruth_aaron_pairs.py)
++ [Complex Number Mul](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_mul.py)
++ [Bulls And Cows](https://github.com/zluuba/codebattle/blob/main/medium-level/bulls_and_cows.py)
++ [Hamming Numbers](https://github.com/zluuba/codebattle/blob/main/medium-level/hamming_numbers.py)
 
 
 ### Hard
