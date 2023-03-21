@@ -118,6 +118,9 @@
 + [Complex Number Mul](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_mul.py)
 + [Bulls And Cows](https://github.com/zluuba/codebattle/blob/main/medium-level/bulls_and_cows.py)
 + [Hamming Numbers](https://github.com/zluuba/codebattle/blob/main/medium-level/hamming_numbers.py)
++ [Double Base Palindromes](https://github.com/zluuba/codebattle/blob/main/medium-level/double_base_palindromes.py)
++ [Sum Primes](https://github.com/zluuba/codebattle/blob/main/medium-level/sum_primes.py)
++ [Check Brackets](https://github.com/zluuba/codebattle/blob/main/medium-level/check_brackets.py)
 
 
 ### Hard
