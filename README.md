@@ -121,6 +121,9 @@
 + [Double Base Palindromes](https://github.com/zluuba/codebattle/blob/main/medium-level/double_base_palindromes.py)
 + [Sum Primes](https://github.com/zluuba/codebattle/blob/main/medium-level/sum_primes.py)
 + [Check Brackets](https://github.com/zluuba/codebattle/blob/main/medium-level/check_brackets.py)
++ [Ipnet Calculator](https://github.com/zluuba/codebattle/blob/main/medium-level/ipnet_calculator.py)
++ [Underscore](https://github.com/zluuba/codebattle/blob/main/medium-level/underscore.py)
++ [Complex Number Sub](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_sub.py)
 
 
 ### Hard
