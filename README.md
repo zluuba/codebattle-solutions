@@ -127,6 +127,8 @@
 + [Integer Difference](https://github.com/zluuba/codebattle/blob/main/medium-level/integer_difference.py)
 + [Star Number](https://github.com/zluuba/codebattle/blob/main/medium-level/star_number.py)
 + [Well Tempered Ergodox](https://github.com/zluuba/codebattle/blob/main/medium-level/well_tempered_ergodox.py)
++ [Sastry Numbers](https://github.com/zluuba/codebattle/blob/main/medium-level/sastry_numbers.py)
++ [Prime Array](https://github.com/zluuba/codebattle/blob/main/medium-level/prime_array.py)
 
 
 ### Hard
