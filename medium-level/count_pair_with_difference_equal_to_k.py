@@ -10,12 +10,13 @@ from typing import List
 
 
 def solution(pairs: List[int], k: int) -> int:
-    p = []
+    k_pairs = []
+    counter = 0
     for i in range(len(pairs)):
-        for j in range(len(pairs)):
-            if i != j and ((pairs[i], pairs[j]) not in p and (pairs[j], pairs[i]) not in p):
-                pair = (pairs[i], pairs[j])
-                p.append(pair)
-
-    res = list(map(lambda x: abs(x[0] - x[1]), p))
-    return res.count(k)
+        for j in range(i, len(pairs)):
+            pair = (pairs[i], pairs[j])
+            if i != j and pair not in k_pairs:
+                if abs(pair[0] - pair[1]) == k:
+                    k_pairs.append(pair)
+                    counter += 1
+    return counter
