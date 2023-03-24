@@ -129,6 +129,9 @@
 + [Well Tempered Ergodox](https://github.com/zluuba/codebattle/blob/main/medium-level/well_tempered_ergodox.py)
 + [Sastry Numbers](https://github.com/zluuba/codebattle/blob/main/medium-level/sastry_numbers.py)
 + [Prime Array](https://github.com/zluuba/codebattle/blob/main/medium-level/prime_array.py)
++ [Broadcast Finder](https://github.com/zluuba/codebattle/blob/main/medium-level/broadcast_finder.py)
++ [Complex Number Sum](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_sum.py)
++ [Tic Tac Toe](https://github.com/zluuba/codebattle/blob/main/medium-level/tic_tac_toe.py)
 
 
 ### Hard
