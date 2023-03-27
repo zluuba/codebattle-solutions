@@ -11,9 +11,10 @@ from typing import List
 
 
 def solution(first: List[int], second: List[int]) -> List[int]:
-    real1, img1 = first[0], first[1]
-    real2, img2 = second[0], second[1]
+    num1 = complex(*first)
+    num2 = complex(*second)
 
-    real = real1 - real2
-    imaginary = img1 - img2
-    return [real, imaginary]
+    real = int(num1.real - num2.real)
+    imag = int(num1.imag - num2.imag)
+
+    return [real, imag]
