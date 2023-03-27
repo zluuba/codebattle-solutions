@@ -132,6 +132,13 @@
 + [Broadcast Finder](https://github.com/zluuba/codebattle/blob/main/medium-level/broadcast_finder.py)
 + [Complex Number Sum](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_sum.py)
 + [Tic Tac Toe](https://github.com/zluuba/codebattle/blob/main/medium-level/tic_tac_toe.py)
++ [Subnet Checker](https://github.com/zluuba/codebattle/blob/main/medium-level/subnet_checker.py)
++ [Orthogonal Vectors](https://github.com/zluuba/codebattle/blob/main/medium-level/orthogonal_vectors.py)
++ [Credit Card Validator](https://github.com/zluuba/codebattle/blob/main/medium-level/credit_card_validator.py)
++ [Sum Of Exp](https://github.com/zluuba/codebattle/blob/main/medium-level/sum_of_exp.py)
++ [Secret Function](https://github.com/zluuba/codebattle/blob/main/medium-level/secret_function.py)
++ [Prime Number Count](https://github.com/zluuba/codebattle/blob/main/medium-level/prime_number_count.py)
++ [Complex Number Div](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_div.py)
 
 
 ### Hard
