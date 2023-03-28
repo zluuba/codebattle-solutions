@@ -13,9 +13,9 @@ def solution(pairs: List[int], k: int) -> int:
     k_pairs = []
     counter = 0
     for i in range(len(pairs)):
-        for j in range(i, len(pairs)):
+        for j in range(i + 1, len(pairs)):
             pair = (pairs[i], pairs[j])
-            if i != j and pair not in k_pairs:
+            if pair not in k_pairs:
                 if abs(pair[0] - pair[1]) == k:
                     k_pairs.append(pair)
                     counter += 1
