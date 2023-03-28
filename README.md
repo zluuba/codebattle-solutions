@@ -139,6 +139,8 @@
 + [Secret Function](https://github.com/zluuba/codebattle/blob/main/medium-level/secret_function.py)
 + [Prime Number Count](https://github.com/zluuba/codebattle/blob/main/medium-level/prime_number_count.py)
 + [Complex Number Div](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_div.py)
++ [Anagram Finder](https://github.com/zluuba/codebattle/blob/main/medium-level/anagram_finder.py)
++ [Palindrome Anagram](https://github.com/zluuba/codebattle/blob/main/medium-level/palindrome_anagram.py)
 
 
 ### Hard
