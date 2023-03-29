@@ -9,6 +9,6 @@
 def solution(address: str, subnet: str) -> bool:
     ip, mask = address.split('/')
 
-    if set(ip.split('.')) & set(subnet.split('.')):
+    if ip.split('.')[0] == subnet.split('.')[0]:
         return True
     return False
