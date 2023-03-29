@@ -141,6 +141,7 @@
 + [Complex Number Div](https://github.com/zluuba/codebattle/blob/main/medium-level/complex_number_div.py)
 + [Anagram Finder](https://github.com/zluuba/codebattle/blob/main/medium-level/anagram_finder.py)
 + [Palindrome Anagram](https://github.com/zluuba/codebattle/blob/main/medium-level/palindrome_anagram.py)
++ [Supremum Syracuse](https://github.com/zluuba/codebattle/blob/main/medium-level/supremum_syracuse.py)
 
 
 ### Hard
