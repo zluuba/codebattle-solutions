@@ -142,6 +142,7 @@
 + [Anagram Finder](https://github.com/zluuba/codebattle/blob/main/medium-level/anagram_finder.py)
 + [Palindrome Anagram](https://github.com/zluuba/codebattle/blob/main/medium-level/palindrome_anagram.py)
 + [Supremum Syracuse](https://github.com/zluuba/codebattle/blob/main/medium-level/supremum_syracuse.py)
++ [Simplified Stairway To Heaven](https://github.com/zluuba/codebattle/blob/main/medium-level/simplified_stairway_to_heaven.py)
 
 
 ### Hard
