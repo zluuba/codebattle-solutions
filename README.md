@@ -146,6 +146,9 @@
 
 
 ### Hard
++ [True Stairway To Heaven](https://github.com/zluuba/codebattle/blob/main/hard-level/true_stairway_to_heaven.py)
++ [Reciprocal Cycles](https://github.com/zluuba/codebattle/blob/main/hard-level/reciprocal_cycles.py)
++ [Levenshtein Distance](https://github.com/zluuba/codebattle/blob/main/hard-level/levenshtein_distance.py)
 
 
 <br/>
