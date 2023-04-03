@@ -149,6 +149,10 @@
 + [True Stairway To Heaven](https://github.com/zluuba/codebattle/blob/main/hard-level/true_stairway_to_heaven.py)
 + [Reciprocal Cycles](https://github.com/zluuba/codebattle/blob/main/hard-level/reciprocal_cycles.py)
 + [Levenshtein Distance](https://github.com/zluuba/codebattle/blob/main/hard-level/levenshtein_distance.py)
++ [Euler Totient Function](https://github.com/zluuba/codebattle/blob/main/hard-level/euler_totient_function.py)
++ [Count And Say](https://github.com/zluuba/codebattle/blob/main/hard-level/count_and_say.py)
++ [Number To English](https://github.com/zluuba/codebattle/blob/main/hard-level/number_to_english.py)
++ [Four Is Magic](https://github.com/zluuba/codebattle/blob/main/hard-level/four_is_magic.py)
 
 
 <br/>
