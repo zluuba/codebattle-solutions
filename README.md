@@ -153,6 +153,7 @@
 + [Count And Say](https://github.com/zluuba/codebattle/blob/main/hard-level/count_and_say.py)
 + [Number To English](https://github.com/zluuba/codebattle/blob/main/hard-level/number_to_english.py)
 + [Four Is Magic](https://github.com/zluuba/codebattle/blob/main/hard-level/four_is_magic.py)
++ [Baudot Code](https://github.com/zluuba/codebattle/blob/main/hard-level/baudot_code.py)
 
 
 <br/>
