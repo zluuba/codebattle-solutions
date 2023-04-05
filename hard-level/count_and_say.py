@@ -16,14 +16,14 @@ def solution(str: str) -> str:
     }
 
     result = ''
-
     for i in str.split(','):
-        word, n = None, None
+        word, n = '', 0
         for j in i.split():
+            j = j.strip("'s")
             if j in keywords:
                 word = j
-            elif j.strip("'s").isdigit():
-                n = j.strip("'s")
+            elif j.isdigit():
+                n = j
 
         result += n * keywords[word]
 

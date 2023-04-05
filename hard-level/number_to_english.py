@@ -34,7 +34,7 @@ def solution(num: int) -> str:
         else:
             return (numbers[num // 100] + numbers[100] + solution(num % 100)).capitalize()
     if num % 1000 == 0:
-        return (numbers[num // 1000] + numbers[1000] + ' ').capitalize().strip()
+        return (numbers[num // 1000] + numbers[1000]).capitalize()
     return (numbers[num // 1000] + numbers[1000] + ', ' + solution(num % 1000)).capitalize()
 
 
