@@ -154,6 +154,7 @@
 + [Number To English](https://github.com/zluuba/codebattle/blob/main/hard-level/number_to_english.py)
 + [Four Is Magic](https://github.com/zluuba/codebattle/blob/main/hard-level/four_is_magic.py)
 + [Baudot Code](https://github.com/zluuba/codebattle/blob/main/hard-level/baudot_code.py)
++ [Read Roman Numerals](https://github.com/zluuba/codebattle/blob/main/hard-level/read_roman_numerals.py)
 
 
 <br/>
